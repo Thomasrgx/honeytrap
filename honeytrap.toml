@@ -25,5 +25,5 @@ type="console"
 channel=["console"]
 
 [[logging]]
-output = "/home/ubuntu/log.txt"
+output = "log.txt"
 level = "debug"
